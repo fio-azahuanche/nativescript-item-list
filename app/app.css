@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ActionBar {
+  background-color: green;
+  color: white;
+}
+.item {
+  display: flex;
+  text-align: justify;
+  padding: 0 20px;
+}
